@@ -57,6 +57,16 @@ sudo apt update && sudo apt install pgadmin4
 
 ### Mac OS X
 
-_Видео-инструкция в разработке_
+[Видео-инструкция](https://videos-bb5ddb7a.cdn.integros.com/videos/5x1n2qgzvEhGTeG71vhmBE/mp4/1080.mp4)
 
-[Ссылка на PostgreSQL для Mac](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
+```bash
+brew install postgres
+
+postgres -V
+
+pg_crl -D /usr/local/var/postgres start
+
+createuser -P -s postgres
+```
+
+

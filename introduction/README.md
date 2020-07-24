@@ -59,6 +59,8 @@ sudo apt update && sudo apt install pgadmin4
 
 [Видео-инструкция](https://videos-bb5ddb7a.cdn.integros.com/videos/5x1n2qgzvEhGTeG71vhmBE/mp4/1080.mp4)
 
+Команды для установки:
+
 ```bash
 brew install postgres
 

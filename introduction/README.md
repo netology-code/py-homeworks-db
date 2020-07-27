@@ -66,7 +66,7 @@ brew install postgres
 
 postgres -V
 
-pg_crl -D /usr/local/var/postgres start
+pg_ctl -D /usr/local/var/postgres start
 
 createuser -P -s postgres
 ```

@@ -29,7 +29,7 @@
 Возможно несколько вариантов реализации:
 
 1. Парсится json, создаются соотведствующие экземляры моделей и сохраняются в БД.
-2. Создаются новые фикстуры в замен JSON на основе [SQLAlchemy-Fixtures](https://sqlalchemy-fixtures.readthedocs.io/en/latest/) или [FactoryBoy](https://github.com/FactoryBoy/factory_boy)
+2. Создаются новые фикстуры взамен JSON на основе [SQLAlchemy-Fixtures](https://sqlalchemy-fixtures.readthedocs.io/en/latest/) или [FactoryBoy](https://github.com/FactoryBoy/factory_boy)
 
 ## Общие советы:
 

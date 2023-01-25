@@ -62,7 +62,7 @@ sudo apt update && sudo apt install pgadmin4
 Команды для установки:
 
 ```bash
-brew install postgres
+brew install postgresql
 
 postgres -V
 

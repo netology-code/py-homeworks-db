@@ -17,7 +17,7 @@
 
 Для создания схем можно воспользоваться удобной платформой [app.diagrams.net](https://app.diagrams.net/) или любым другим графическим редактором.
 
-[Краткая шпаргалка](https://docs.google.com/document/d/1KUagjHQQHIQYS2-qI0lgiV2wNxKdi00Q_Xw0nK7t3PA/edit?usp=sharing) по созданию схем БД на платформе [app.diagrams.net](https://app.diagrams.net/).
+Краткая шпаргалка по созданию схем БД на платформе [app.diagrams.net](https://app.diagrams.net/) находится в личном кабинете в занятии  «Введение в базы данных. Типы баз данных».
 
 ## Задание 2 (подготовка к следующей лекции)
 

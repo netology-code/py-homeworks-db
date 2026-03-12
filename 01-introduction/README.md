@@ -22,12 +22,12 @@
 ## Задание 2 (подготовка к следующей лекции)
 
 Необходимо установить PostgreSQL на свой ПК.
+[Ссылка на PostgreSQL](https://www.postgresql.org/download).
 
 ### Windows
 
 [Видеоинструкция](https://embed.new.video/uyjUq9B3qYo6BbbkzG71Ny).
 
-[Ссылка на PostgreSQL для Windows](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads).
 
 ### Linux (на примере Ubuntu 20.04)
 

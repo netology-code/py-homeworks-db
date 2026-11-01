@@ -22,7 +22,7 @@
 ## Задание 2 (подготовка к следующей лекции)
 
 Необходимо установить PostgreSQL на свой ПК.
-[Ссылка на PostgreSQL](https://www.postgresql.org/download).
+[Ссылка на PostgreSQL](https://postgrespro.ru/windows).
 
 ### Windows
 
